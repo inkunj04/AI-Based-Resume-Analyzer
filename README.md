@@ -35,9 +35,13 @@
 
 ## 📁 Project Structure
 
-├── resume_lr_model.pkl            # Trained Logistic Regression model
-├── resume_tfidf.pkl               # TF-IDF Vectorizer
-├── resume_label_encoder.pkl       # Label Encoder for role mapping
-├── UpdatedResumeDataSet.csv       # Labeled dataset used for training
-├── streamlit_app.py               # Main Streamlit app file
-└── README.md                      # Project README
+## 📁 Project Structure
+
+```
+| File/Folder Name              | Description                                      |
+|------------------------------|--------------------------------------------------|
+| resume_lr_model.pkl          | Trained Logistic Regression model               |
+| resume_tfidf.pkl             | TF-IDF Vectorizer used for feature extraction   |
+| resume_label_encoder.pkl     | Label Encoder for mapping roles to integers     |
+| UpdatedResumeDataSet.csv     | Dataset used for training and evaluation        |
+| streamlit_app.py             | Main Streamlit app script                       |
