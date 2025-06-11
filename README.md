@@ -35,9 +35,6 @@
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
-```
 | File/Folder Name              | Description                                      |
 |------------------------------|--------------------------------------------------|
 | resume_lr_model.pkl          | Trained Logistic Regression model               |
